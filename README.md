@@ -2,13 +2,13 @@
 
 A new Flutter project.
 
-## Getting Started
+## Getting Started with GetX
 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-
+- GetX as Sate Management
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
