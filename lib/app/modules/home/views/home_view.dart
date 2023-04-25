@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
-
 import 'package:get/get.dart';
 import 'package:get_learn/app/modules/cart_page/controllers/cart_page_controller.dart';
 import 'package:get_learn/app/modules/cart_page/views/cart_page_view.dart';
 import 'package:sizer/sizer.dart';
-
 import '../controllers/home_controller.dart';
 
 class HomeView extends GetView<HomeController> {

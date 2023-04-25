@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-
 import 'package:get/get.dart';
 import 'package:sizer/sizer.dart';
-
 import '../controllers/cart_page_controller.dart';
 
 class CartPageView extends GetView<CartPageController> {
